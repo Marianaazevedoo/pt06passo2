@@ -1,0 +1,56 @@
+html {
+  font-family: ;
+  color: ;
+  background-color: #5a8731;
+}
+
+body {
+  font-family: "Arial", "Helvetica", sans-serif;
+  background-color: #d9a3d0;
+}
+
+body {
+  border-color:#89b85e;
+  border-style: solid;
+  border-width: 5px;
+  margin: 50px;
+}
+
+#tipo1 {
+  color: white;
+  text-align: center;
+  font-size: 35px;
+  font-weight: ;
+}
+
+#rodape img {
+  margin-right: 35px;
+  vertical-align: middle;
+  width: 94px;
+}
+
+h1 {
+  color:#698dc2;
+  /* background-image: url(../imagens/img1.jpg); */
+  margin-left:5px;
+}
+
+h2 {
+  margin-left: 20px;
+  /* tamanho da margem da primeira linha do texto */
+}
+
+h3 {
+  color: #698dc2;
+  background: white;
+  margin-left: 40px;  /* tamanho da margem esquerda */
+  margin-right: 20px;
+}
+
+h1, h2, h3, h4, p {
+  padding: 10px;
+  line-height: 23px;  /* tamanho da altura de cada linha */
+  letter-spacing: 2px;   /* tamanho do espaço entre cada letra */
+  word-spacing: 5px;   /* tamanho do espaço entre cada palavra */
+
+}
